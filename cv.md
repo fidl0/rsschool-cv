@@ -5,7 +5,9 @@
 *My goal is to solve problems with code and become a Middle FrontEnd developer in 2-3 years*  
   
 ## Strengths  
-responsibility, analytical mindset, ability and desire to work in a team  
+- responsibility  
+- analytical mindset  
+- ability and desire to work in a team  
   
 ## About myself  
 - I worked as an auditor at EY for a year, where I learned to study documents closely, and also achieved a transition to a new data analytics department and became the first person in the department where I worked with big data (the number of lines reached a billion in a document) and studied python.  
